@@ -16,6 +16,7 @@ The repository is organized by the platform or institution that issued the certi
 
 - `Coursera/`: Certificates from courses completed on Coursera.
 - `Just IT/`: Certificates from the Data Technician Skills Bootcamp.
+- https://www.linkedin.com/in/sahra-n-826327158/details/certifications/ 
 
 ---
 
